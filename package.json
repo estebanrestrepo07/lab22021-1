@@ -1,0 +1,28 @@
+{
+  "name": "lab22021-1",
+  "version": "1.0.0",
+  "description": "Calculadora NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanrestrepo07/lab22021-1.git"
+  },
+  "keywords": [
+    "Suma",
+    "resta",
+    "multiplicacion",
+    "division"
+  ],
+  "author": "Esteban Restrepo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanrestrepo07/lab22021-1/issues"
+  },
+  "homepage": "https://github.com/estebanrestrepo07/lab22021-1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
