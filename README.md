@@ -1,4 +1,6 @@
 # lab22021-1
+
+TRAVIS CI:  [![Build Status](https://travis-ci.org/estebanrestrepo07/lab22021-1.svg?branch=main)](https://travis-ci.org/estebanrestrepo07/lab22021-1)
 ## Implementation of a Simple Calculator with the next operations:
 
 * Add
