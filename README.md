@@ -10,6 +10,7 @@ Code Smell: [![Code Smells](https://sonarcloud.io/api/project_badges/measure?pro
 
 QGS: [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=estebanrestrepo07_lab22021-1&metric=alert_status)](https://sonarcloud.io/dashboard?id=estebanrestrepo07_lab22021-1)
 
+Coverage Status: [![Coverage Status](https://coveralls.io/repos/github/estebanrestrepo07/lab22021-1/badge.svg?branch=main)](https://coveralls.io/github/estebanrestrepo07/lab22021-1?branch=main)
 
 ## Implementation of a Simple Calculator with the next operations:
 
